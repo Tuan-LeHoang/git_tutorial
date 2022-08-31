@@ -15,11 +15,8 @@ def build_graph():
 	
 	# Loop to iterate over every
 	# edge of the graph
-
-
 if __name__ == "__main__":
 	graph = build_graph()
-	
 	print(graph)
 
 print('Tuan')
