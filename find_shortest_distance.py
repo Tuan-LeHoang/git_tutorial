@@ -8,3 +8,7 @@ for item in distance:
     if item < a:
         a = item
 print(a)
+
+print('This is a simple algorithms')
+
+# Divide and conquer algorithms
